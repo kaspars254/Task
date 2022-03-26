@@ -1,1 +1,1 @@
-# Gerlionti Junior Frontend deloper Task
+# Gerlionti Junior Frontend developer Task
